@@ -1,0 +1,28 @@
+{
+  "name": "Search Lyrics on Genius",
+  "version": "1.0",
+  "description":
+    "Click to search on genius.com with the Title of the youtube clip as Search parameter.",
+  "permissions": ["declarativeContent", "activeTab"],
+  "omnibox": { "keyword": "slg" },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "page_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/music_search_16.png",
+      "32": "images/music_search_32.png",
+      "48": "images/music_search_48.png",
+      "128": "images/music_search_128.png"
+    }
+  },
+  "icons": {
+    "16": "images/music_search_16.png",
+    "32": "images/music_search_32.png",
+    "48": "images/music_search_48.png",
+    "128": "images/music_search_128.png"
+  },
+  "manifest_version": 2
+}
