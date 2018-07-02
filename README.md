@@ -15,3 +15,5 @@ This is still not on Chrome Web Store, im gonna see and put it up there in a few
 To use this, either clone or download the zip, extract somewhere on your PC, then go into Chrome and go into chrome://extensions
 and tick Developer Mode in the right upper corner. After that click on "Load Unpacked" and just navigate to the folder containing
 the Search Lyrics. Then just enable it and it should be working.
+
+Icons made by [Smashicons](https://www.flaticon.com/authors/smashicons) from [www.flaticon.com](https://www.flaticon.com/)
